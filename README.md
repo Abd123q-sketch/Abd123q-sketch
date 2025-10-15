@@ -43,13 +43,6 @@ I’m a 5th-year Software Engineering student from Morocco, passionate about sof
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
----
-
-### 📐 Modeling & Design
-![UML](https://img.shields.io/badge/UML-007396?style=flat-square&logo=plantuml&logoColor=white)
-![Merise](https://img.shields.io/badge/Merise-FF6600?style=flat-square)
-
----
 
 ### 📊 Project Management
 ![Scrum](https://img.shields.io/badge/Scrum-1ABC9C?style=flat-square)
