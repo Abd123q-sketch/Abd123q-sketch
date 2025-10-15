@@ -1,6 +1,4 @@
-# Hi, I’m Abderrahmane 👋
-
-Software Engineering Student Specializing in Software deveoppement . 
+# Hi, I’m Abderrahmane 👋                                                                                                                                                     Software Engineering Student Specializing in Software deveoppement . 
 
 I’m a 5th-year Software Engineering student from Morocco, passionate about software development and specialized in building web applications. I love exploring new technologies  and am always eager to contribute to exciting projects!
 
