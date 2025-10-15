@@ -2,9 +2,11 @@
 
 I’m a 5th-year Software Engineering student from Morocco, passionate about software development and specialized in building web applications. I love exploring new technologies  and am always eager to contribute to exciting projects!
 
-🌍  I'm based in Rabat, Morocco
-⚡  I'm looking currently for internship opportunities  to enhance my skills and contribute to impactful projects.
-✉️  You can contact me at foutouhabderrahman8@gmail.com || 🔗 LinkedIn: https://www.linkedin.com/in/foutouh-abderrahmane-537447305/
+. 🌍  I'm based in Rabat, Morocco
+
+. ⚡  I'm looking currently for internship opportunities  to enhance my skills and contribute to impactful projects.
+
+. ✉️  You can contact me at foutouhabderrahman8@gmail.com || 🔗 LinkedIn: https://www.linkedin.com/in/foutouh-abderrahmane-537447305/
 
 
 
