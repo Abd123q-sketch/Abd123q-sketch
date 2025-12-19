@@ -2,7 +2,7 @@
 
 #  5th year Software Engineering Student Option MIAGE  . 
 
-I’m a 5th-year Software Engineering student from Morocco, passionate about software development  and Contributing to Client experience improvement . I love exploring new technologies  and am always eager to contribute to exciting projects!
+I’m a 5th-year Software Engineering student from Morocco, passionate about software development and Contributing to Client experience improvement . I love exploring new technologies  and am always eager to contribute to exciting projects!
 
 . 🌍  I'm based in Rabat, Morocco
 
