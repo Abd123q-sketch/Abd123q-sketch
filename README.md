@@ -90,11 +90,8 @@
 </p>
 
 
----
-
-## 🐍 GitHub Contribution Snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdoufoutouh/abdoufoutouh/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/abdoufoutouh/abdoufoutouh/output/snake.svg" />
 </p>
+
 
