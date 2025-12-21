@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Abderrahmane Foutouh</h1>
+<h1 align="center">👋 Hello world , I'm Abderrahmane Foutouh</h1>
 <h3 align="center">5th-Year Software Engineering Student • MIAGE Option</h3>
 <h4 align="center">📍 Rabat, Morocco 🇲🇦</h4>
 
@@ -77,19 +77,6 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48"/>
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdoufoutouh&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdoufoutouh&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdoufoutouh&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
