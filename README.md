@@ -14,10 +14,10 @@
 ## 🚀 About Me
 
 🎓 5th-year **Software Engineering student (MIAGE)**  
-💻 Passionate about **Full-Stack Development & Enterprise Applications**  
-⚡ Actively looking for **internship opportunities (PFE)**  
+💻 Interested in **Full-Stack Development & Enterprise Applications**  
+⚡ Actively seeking a **PFE internship opportunity**  
 🌱 Curious, motivated, and eager to contribute to real-world projects  
-🤝 Enjoy working in teams and learning from experienced developers
+🤝 Team-oriented, adaptable, and driven by continuous learning  
 
 ---
 
@@ -84,8 +84,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdoufoutouh&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdoufoutouh&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdoufoutouh&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -97,5 +101,5 @@
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+  ⭐ Thanks for visiting my GitHub profile!
 </p>
