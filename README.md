@@ -1,66 +1,101 @@
-# 👋 Hello World, I'm Abderrahmane!
+<h1 align="center">👋 Hello, I'm Abderrahmane Foutouh</h1>
+<h3 align="center">5th-Year Software Engineering Student • MIAGE Option</h3>
+<h4 align="center">📍 Rabat, Morocco 🇲🇦</h4>
 
-🎓 **5th-Year Software Engineering Student – MIAGE Option**  
-📍 **Rabat, Morocco 🇲🇦**
-
-Passionate about **software development** and **new technologies**, I enjoy building clean, scalable, and impactful applications.  
-I’m always curious, motivated, and eager to contribute to **real-world projects** while continuously improving my skills.
+<p align="center">
+  <em>
+    Passionate about software development, modern technologies, and building impactful solutions.<br/>
+    Always learning • Always building • Always improving 🚀
+  </em>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🌍 Based in **Rabat, Morocco**
-- ⚡ Currently **seeking internship opportunities** to gain hands-on experience and contribute to innovative projects
-- 💡 Interested in **Full-Stack Development**, **Enterprise Applications**, and **Modern Web Technologies**
-- 🤝 Open to collaboration and learning from experienced teams
+🎓 5th-year **Software Engineering student (MIAGE)**  
+💻 Passionate about **Full-Stack Development & Enterprise Applications**  
+⚡ Actively looking for **internship opportunities (PFE)**  
+🌱 Curious, motivated, and eager to contribute to real-world projects  
+🤝 Enjoy working in teams and learning from experienced developers
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect With Me
 
-- ✉️ **Email:** foutouhabderrahman8@gmail.com  
-- 🔗 **LinkedIn:** [Abderrahmane Foutouh](https://www.linkedin.com/in/foutouh-abderrahmane-537447305/)
+<p align="left">
+  <a href="mailto:foutouhabderrahman8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/foutouh-abderrahmane-537447305/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/>
+</p>
 
 ---
 
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+### 🌐 Frontend Development
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48"/>
+</p>
 
 ---
 
-### ⚙️ Frameworks & Backend
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+### ⚙️ Backend & Frameworks
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="48"/>
+</p>
 
 ---
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
-![PLSQL](https://img.shields.io/badge/PLSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48"/>
+</p>
 
 ---
 
-### 📊 Project Management & Tools
-![Scrum](https://img.shields.io/badge/Scrum-1ABC9C?style=flat-square)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+### 📊 Tools & Methodologies
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48"/>
+</p>
 
 ---
 
-⭐ *Always learning, always building, always improving.*
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+## 🌟 Motto
+
+> *"Code with purpose. Learn with passion. Build for impact."*
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
