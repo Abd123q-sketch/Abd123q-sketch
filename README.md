@@ -1,11 +1,11 @@
-<h1 align="center">👋 Hello world I'm Abderrahmane Foutouh</h1>
+<h1 align="center">👋 Abderrahmane Foutouh</h1>
 <h3 align="center">5th-Year Software Engineering Student • MIAGE Option</h3>
 <p align="center">📍 Rabat, Morocco 🇲🇦</p>
 
 <p align="center">
   <em>
-    Passionate about software development and modern technologies.<br/>
-    I enjoy building clean, scalable, and impactful applications 🚀
+    Passionate about software development, enterprise applications, and CRM / ERP ecosystems.<br/>
+    Full-Stack oriented • Curious about Salesforce • Always learning 🚀
   </em>
 </p>
 
@@ -14,9 +14,10 @@
 ## 🧑‍💻 Profile Overview
 
 🎓 5th-year **Software Engineering student (MIAGE)**  
-💡 Strong interest in **Full-Stack Development & Enterprise Applications**  
+💻 Strong interest in **Full-Stack Development & Enterprise Systems (ERP / CRM)**  
+☁️ Actively exploring **Salesforce ecosystem** (Trailhead, Flows, CRM concepts)  
 ⚡ Actively seeking a **PFE internship opportunity**  
-🌱 Curious, motivated, and eager to learn in real-world environments  
+🌱 Curious, motivated, and eager to grow as a **developer & future consultant**  
 🤝 Comfortable working in team-based and agile environments  
 
 ---
@@ -34,7 +35,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
 <p align="left">
   <!-- Programming -->
@@ -58,6 +59,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="46"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="46"/>
 
+  <!-- Salesforce -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" width="46"/>
+
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="46"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="46"/>
@@ -67,8 +71,9 @@
 
 ## 🎯 Professional Goal
 
-> 🎓 **Secure a PFE internship** where I can apply my technical skills,  
-> contribute to real projects, and grow as a **software engineer / full-stack developer**.
+> 🎓 **Secure a PFE internship** in **Full-Stack or Salesforce / CRM consulting**,  
+> where I can apply my technical background, learn enterprise platforms,  
+> and contribute to impactful business solutions.
 
 ---
 
