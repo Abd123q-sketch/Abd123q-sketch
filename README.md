@@ -49,38 +49,43 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
+  <!-- Programming -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="44"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="44"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="44"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="44"/>
 
+  <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="44"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="44"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="44"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="44"/>
 
+  <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="44"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="44"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="44"/>
 
+  <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="44"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="44"/>
 
+  <!-- CRM / ERP -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" width="44"/>
 
+  <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="44"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="44"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="44"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="44"/>
 </p>
 
 ---
-
 ## 🎯 Professional Goal
 
 > 🎓 **Secure a PFE internship** in **Full-Stack Development or Salesforce / CRM Consulting**,  
 > contribute to enterprise-grade solutions, and grow into a **skilled software engineer & consultant**.
-
 ---
-
 <p align="center">
   ✨ <strong>Code with purpose.</strong> Learn with passion. Build for impact.
 </p>
@@ -88,10 +93,3 @@
 <p align="center">
   ⭐ Thanks for visiting my GitHub profile!
 </p>
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abdoufoutouh/abdoufoutouh/output/snake.svg" />
-</p>
-
-
