@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello World, I'm Abderrahmane Foutouh</h1>
+<h1 align="center">  Hello World, I'm Abderrahmane Foutouh </h1>
 
 <p align="center">
   <img 
