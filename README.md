@@ -1,51 +1,32 @@
 <h1 align="center">👋 Hello World, I'm Abderrahmane Foutouh</h1>
 
-<p align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=720&lines=5th-Year+Software+Engineering+Student;Full-Stack+Developer+in+Progress;Intern+at+Finatech+Group;Always+Learning+Always+Building" alt="Typing SVG" /> 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=720&lines=5th-Year+Software+Engineering+Student;Full-Stack+Developer+in+Progress;Intern+at+Finatech+Group;Always+Learning+Always+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/📍%20Casablanca,%20Morocco-0A66C2?style=flat-square"/>
-</p>
-
-<p align="center">
-  <em>
-    Passionate about <strong>software development</strong> and <strong>enterprise applications</strong>.<br/>
-    <span style="color:#6DB33F"><strong>Full-Stack</strong></span> oriented • 
-    Currently an <strong>Intern at Finatech Group</strong> 🚀
-  </em>
+  <img src="https://img.shields.io/badge/💼%20Intern-Finatech%20Group-6DB33F?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🌱%20Learning-Always-FFDD00?style=flat-square"/>
 </p>
 
 ---
 
-## 🧑‍💻 Profile Overview
+## 🧑‍💻 About Me
 
 🎓 5th-year **Software Engineering Student (MIAGE)**  
 💻 Focused on **Full-Stack Development & Software Testing (QA)**  
-🔍 Gaining hands-on experience in **Manual & Automated Testing**  
-🌱 Currently **interning at Finatech Group**, applying my skills in real-world projects  
-🤝 Comfortable in **team-based & agile environments**
+🔍 Hands-on experience in **Manual & Automated Testing**  
+🌱 Currently **interning at Finatech Group**, contributing to real enterprise projects 🚀  
+🤝 Comfortable in **team-based & agile environments**  
 
----
-
-## 📬 Contact & Networking
-
-<p align="center">
-  <a href="mailto:foutouhabderrahman8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/foutouh-abderrahmane-537447305/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+> "Code with purpose. Learn with passion. Build for impact." ✨
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 <p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-
   <!-- Programming -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" title="C++"/>
@@ -79,10 +60,22 @@
 
 ---
 
-<p align="center">
-✨ <strong>Code with purpose. Learn with passion. Build for impact.</strong>
-</p>
+## 📬 Let's Connect
 
 <p align="center">
-⭐ Thanks for visiting my GitHub profile!
+  <a href="mailto:foutouhabderrahman8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/foutouh-abderrahmane-537447305/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/foutouhabderrahmane" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my GitHub! Let's build something amazing together 🚀
 </p>
