@@ -72,19 +72,6 @@
 
 ---
 
----
-
-## 📊 GitHub Highlights
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/foutouhabderrahmane?label=Followers&style=for-the-badge&color=0A66C2" alt="Followers"/>
-  <img src="https://img.shields.io/github/public-repo-count/foutouhabderrahmane?label=Public%20Repos&style=for-the-badge&color=6DB33F" alt="Public Repos"/>
-  <img src="https://img.shields.io/github/languages/top/foutouhabderrahmane?label=Top%20Language&style=for-the-badge&color=FFDD00" alt="Top Language"/>
-  <img src="https://img.shields.io/github/commit-activity/m/foutouhabderrahmane?label=Commits%20This%20Month&style=for-the-badge&color=EA4335" alt="Commits This Month"/>
-</p>
-
----
-
 ## 📬 Let's Connect
 
 <p align="center">
