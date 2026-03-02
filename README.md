@@ -72,14 +72,15 @@
 
 ---
 
-## 🚀 GitHub Highlights
+---
+
+## 📊 GitHub Highlights
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/foutouhabderrahmane?label=Followers&style=for-the-badge&color=0A66C2" alt="Followers"/>
-  <img src="https://img.shields.io/github/repo-size/foutouhabderrahmane/Project1?label=Project1%20Size&style=for-the-badge&color=6DB33F" alt="Project1 Size"/>
-  <img src="https://img.shields.io/github/stars/foutouhabderrahmane/Project1?label=Project1%20Stars&style=for-the-badge&color=FFDD00" alt="Project1 Stars"/>
-  <img src="https://img.shields.io/github/languages/top/foutouhabderrahmane/Project1?label=Top%20Language&style=for-the-badge&color=EA4335" alt="Top Language"/>
-  <img src="https://img.shields.io/github/commit-activity/m/foutouhabderrahmane?label=Commits%20This%20Month&style=for-the-badge&color=0A66C2" alt="Commits This Month"/>
+  <img src="https://img.shields.io/github/public-repo-count/foutouhabderrahmane?label=Public%20Repos&style=for-the-badge&color=6DB33F" alt="Public Repos"/>
+  <img src="https://img.shields.io/github/languages/top/foutouhabderrahmane?label=Top%20Language&style=for-the-badge&color=FFDD00" alt="Top Language"/>
+  <img src="https://img.shields.io/github/commit-activity/m/foutouhabderrahmane?label=Commits%20This%20Month&style=for-the-badge&color=EA4335" alt="Commits This Month"/>
 </p>
 
 ---
