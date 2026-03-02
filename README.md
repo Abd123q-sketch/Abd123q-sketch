@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/📍%20Casablanca,%20Morocco-0A66C2?style=flat-square"/>
-  <img src="https://img.shields.io/badge/💼%20Intern-Finatech groupe -6DB33F?style=flat-square"/>
+  <img src="https://img.shields.io/badge/💼%20Intern-Finatech-6DB33F?style=flat-square"/>
   <img src="https://img.shields.io/badge/🌱%20Learning-Always-FFDD00?style=flat-square"/>
   <img src="https://img.shields.io/badge/⚡%20Passion-Software%20Engineering-EA4335?style=flat-square"/>
 </p>
@@ -28,7 +28,7 @@
 ## 🎨 My Focus Areas
 
 - 🌐 **Web Development:** HTML, CSS, JS, React, Bootstrap  
-- ⚙️ **Backend & APIs:** Spring Boot, Django, .NET  
+- ⚙️ **Backend & APIs:** Spring Boot, Django, ASP.NET  
 - 🗄 **Databases:** MySQL, Oracle  
 - 🛠 **Dev Tools & Collaboration:** Git, GitHub, GitLab, Jira, VSCode, IntelliJ  
 - 🎨 **UI/UX & Prototyping:** Figma  
@@ -54,7 +54,7 @@
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" title="Spring"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" title="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50" title=".NET"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50" title="ASP.NET" style="background:#512BD4; padding:5px; border-radius:8px;"/>
 
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL"/>
