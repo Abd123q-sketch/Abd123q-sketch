@@ -44,22 +44,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" title="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
-
+  
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" title="Bootstrap"/>
-
+  
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" title="Spring"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" title="Django"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50" title=".NET"/>
-
+  
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50" title="Oracle"/>
-
+  
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/>
   <img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-orange.png" width="50" title="GitHub"/>
@@ -72,16 +72,14 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 GitHub Highlights
 
 <p align="center">
-
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=foutouhabderrahmane&show_icons=true&count_private=true&theme=dark&hide=prs" alt="GitHub Stats" />
-
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foutouhabderrahmane&layout=compact&theme=dark" alt="Top Languages"/>
-
+  <img src="https://img.shields.io/github/followers/foutouhabderrahmane?label=Followers&style=for-the-badge&color=0A66C2" alt="Followers"/>
+  <img src="https://img.shields.io/github/repo-size/foutouhabderrahmane/Project1?label=Project1%20Size&style=for-the-badge&color=6DB33F" alt="Project1 Size"/>
+  <img src="https://img.shields.io/github/stars/foutouhabderrahmane/Project1?label=Project1%20Stars&style=for-the-badge&color=FFDD00" alt="Project1 Stars"/>
+  <img src="https://img.shields.io/github/languages/top/foutouhabderrahmane/Project1?label=Top%20Language&style=for-the-badge&color=EA4335" alt="Top Language"/>
+  <img src="https://img.shields.io/github/commit-activity/m/foutouhabderrahmane?label=Commits%20This%20Month&style=for-the-badge&color=0A66C2" alt="Commits This Month"/>
 </p>
 
 ---
