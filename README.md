@@ -18,7 +18,7 @@
 🎓 5th-year **Software Engineering Student (MIAGE)**  
 💻 **Full-Stack Developer in Progress**  
 🔍 Hands-on experience in **Manual & Automated Testing (QA)**  
-🌱 Currently **interning at Finatech**, building real enterprise apps 🚀  
+🌱 Currently **interning at Finatech Groupe**, building real enterprise apps 🚀  
 🤝 Thrives in **team-based & agile environments**  
 
 > “Code with purpose. Learn with passion. Build for impact.” ✨
