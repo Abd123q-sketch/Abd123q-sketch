@@ -6,7 +6,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/📍%20Casablanca,%20Morocco-0A66C2?style=flat-square"/>
-  <img src="https://img.shields.io/badge/💼%20Intern-Finatech%20Group-6DB33F?style=flat-square"/>
+  
+  <a href="https://www.finatechgroup.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Finatech_Group_logo.png" alt="Finatech Group Logo" width="120"/>
+  </a>
+  
   <img src="https://img.shields.io/badge/🌱%20Learning-Always-FFDD00?style=flat-square"/>
 </p>
 
