@@ -1,17 +1,14 @@
 <h1 align="center">👋 Hello World, I'm Abderrahmane Foutouh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=720&lines=5th-Year+Software+Engineering+Student;Full-Stack+Developer+in+Progress;Intern+at+Finatech+Group;Always+Learning+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=720&lines=5th-Year+Software+Engineering+Student;Full-Stack+Developer+in+Progress;Intern+at+Finatech;Always+Learning+Always+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/📍%20Casablanca,%20Morocco-0A66C2?style=flat-square"/>
-  
-  <a href="https://www.finatechgroup.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Finatech_Group_logo.png" alt="Finatech Group Logo" width="120"/>
-  </a>
-  
+  <img src="https://img.shields.io/badge/💼%20Intern-Finatech-6DB33F?style=flat-square"/>
   <img src="https://img.shields.io/badge/🌱%20Learning-Always-FFDD00?style=flat-square"/>
+  <img src="https://img.shields.io/badge/⚡%20Passion-Software%20Engineering-EA4335?style=flat-square"/>
 </p>
 
 ---
@@ -19,12 +16,24 @@
 ## 🧑‍💻 About Me
 
 🎓 5th-year **Software Engineering Student (MIAGE)**  
-💻 Focused on **Full-Stack Development & Software Testing (QA)**  
-🔍 Hands-on experience in **Manual & Automated Testing**  
-🌱 Currently **interning at Finatech Group**, contributing to real enterprise projects 🚀  
-🤝 Comfortable in **team-based & agile environments**  
+💻 **Full-Stack Developer in Progress**  
+🔍 Gaining expertise in **Manual & Automated Testing (QA)**  
+🌱 Currently **interning at Finatech**, building real enterprise applications 🚀  
+🤝 Thrives in **team-based & agile environments**  
+🎯 Driven by **solving problems, building software, and creating impact**
 
-> "Code with purpose. Learn with passion. Build for impact." ✨
+> “Code with purpose. Learn with passion. Build for impact.” ✨
+
+---
+
+## 🚀 My Focus Areas
+
+- **Web Development:** HTML, CSS, JS, React, Bootstrap  
+- **Backend & APIs:** Spring Boot, Django, .NET  
+- **Databases:** MySQL, Oracle  
+- **Dev Tools & Collaboration:** Git, GitHub, GitLab, Jira, VSCode, IntelliJ  
+- **UI/UX & Prototyping:** Figma  
+- **Testing & QA:** Manual & Automated Testing  
 
 ---
 
@@ -36,22 +45,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" title="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
-
+  
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" title="Bootstrap"/>
-
+  
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" title="Spring"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" title="Django"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50" title=".NET"/>
-
+  
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50" title="Oracle"/>
-
+  
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/>
   <img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-orange.png" width="50" title="GitHub"/>
@@ -81,5 +90,6 @@
 ---
 
 <p align="center">
-⭐ Thanks for visiting my GitHub! Let's build something amazing together 🚀
+✨ <strong>Building, Learning, Sharing. Always coding with purpose.</strong>  
+⭐ Thanks for stopping by my GitHub! Let’s create something awesome together 🚀
 </p>
