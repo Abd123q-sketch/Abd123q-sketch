@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍%20Rabat,%20Morocco-0A66C2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/📍%20Casablanca,%20Morocco-0A66C2?style=flat-square"/>
 </p>
 
 <p align="center">
