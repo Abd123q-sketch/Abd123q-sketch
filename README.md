@@ -27,8 +27,8 @@
 
 ## 🎨 My Focus Areas
 
-- 🌐 **Web Development:** HTML, CSS, JS, React, Bootstrap  
-- ⚙️ **Backend & APIs:** Spring Boot, Django, ASP.NET  
+- 🌐 **Web Development:** HTML, CSS, JS, React  
+- ⚙️ **Backend & APIs:** Spring Boot, Django, .NET Core  
 - 🗄 **Databases:** MySQL, Oracle  
 - 🛠 **Dev Tools & Collaboration:** Git, GitHub, GitLab, Jira, VSCode, IntelliJ  
 - 🎨 **UI/UX & Prototyping:** Figma  
@@ -49,12 +49,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" title="Bootstrap"/>
 
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" title="Spring"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" title="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50" title="ASP.NET" style="background:#512BD4; padding:5px; border-radius:8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50" title=".NET Core" style="background:#512BD4; padding:5px; border-radius:8px;"/>
 
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL"/>
