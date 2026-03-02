@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/📍%20Casablanca,%20Morocco-0A66C2?style=flat-square"/>
-  <img src="https://img.shields.io/badge/💼%20Intern-Finatech-6DB33F?style=flat-square"/>
+  <img src="https://img.shields.io/badge/💼%20Intern-Finatech groupe -6DB33F?style=flat-square"/>
   <img src="https://img.shields.io/badge/🌱%20Learning-Always-FFDD00?style=flat-square"/>
   <img src="https://img.shields.io/badge/⚡%20Passion-Software%20Engineering-EA4335?style=flat-square"/>
 </p>
