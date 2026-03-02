@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello World, I'm Abderrahmane Foutouh</h1>
 
 <p align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=720&lines=5th-Year+Software+Engineering+Student;Full-Stack+Developer+in+Progress;Exploring+QA+%26+Testing;Intern+at+Finatech+Group;Always+Learning+Always+Building" alt="Typing SVG" /> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=720&lines=5th-Year+Software+Engineering+Student;Full-Stack+Developer+in+Progress;Intern+at+Finatech+Group;Always+Learning+Always+Building" alt="Typing SVG" /> 
 </p>
 
 <p align="center">
@@ -10,9 +10,8 @@
 
 <p align="center">
   <em>
-    Passionate about <strong>software development</strong>, <strong>quality assurance</strong>, and <strong>testing automation</strong>.<br/>
+    Passionate about <strong>software development</strong> and <strong>enterprise applications</strong>.<br/>
     <span style="color:#6DB33F"><strong>Full-Stack</strong></span> oriented • 
-    <span style="color:#00A1E0"><strong>QA / Testing Enthusiast</strong></span> • 
     Currently an <strong>Intern at Finatech Group</strong> 🚀
   </em>
 </p>
@@ -22,13 +21,9 @@
 ## 🧑‍💻 Profile Overview
 
 🎓 5th-year **Software Engineering Student (MIAGE)**  
-
 💻 Focused on **Full-Stack Development & Software Testing (QA)**  
-
-🔍 Gaining hands-on experience in **Manual & Automated Testing** (Selenium, Postman, JUnit, CI/CD test pipelines)  
-
+🔍 Gaining hands-on experience in **Manual & Automated Testing**  
 🌱 Currently **interning at Finatech Group**, applying my skills in real-world projects  
-
 🤝 Comfortable in **team-based & agile environments**
 
 ---
@@ -72,14 +67,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50" title="Oracle"/>
 
-  <!-- QA / Testing -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original-wordmark.svg" width="50" title="Postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50" title="Selenium"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" width="50" title="JUnit"/>
-
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/>
   <img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-orange.png" width="50" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50" title="GitLab"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="50" title="Jira"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" title="Figma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" title="IntelliJ"/>
@@ -89,7 +80,7 @@
 ---
 
 <p align="center">
-✨ <strong>Code with purpose. Test with precision. Build for impact.</strong>
+✨ <strong>Code with purpose. Learn with passion. Build for impact.</strong>
 </p>
 
 <p align="center">
