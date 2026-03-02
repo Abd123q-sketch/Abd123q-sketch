@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello World, I'm Abderrahmane Foutouh</h1>
 
 <p align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=720&lines=5th-Year+Software+Engineering+Student;Full-Stack+Developer+in+Progress;Exploring+Salesforce+%26+CRM+Ecosystems;Future+Software+Engineer+%26+Consultant;Always+Learning+Always+Building" alt="Typing SVG" /> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=720&lines=5th-Year+Software+Engineering+Student;Full-Stack+Developer+in+Progress;Exploring+QA+%26+Testing;Intern+at+Finatech+Group;Always+Learning+Always+Building" alt="Typing SVG" /> 
 </p>
 
 <p align="center">
@@ -10,37 +10,47 @@
 
 <p align="center">
   <em>
-    Passionate about <strong>software development</strong>, <strong>enterprise applications</strong>, and <strong>CRM / ERP ecosystems</strong>.<br/>
+    Passionate about <strong>software development</strong>, <strong>quality assurance</strong>, and <strong>testing automation</strong>.<br/>
     <span style="color:#6DB33F"><strong>Full-Stack</strong></span> oriented • 
-    <span style="color:#00A1E0"><strong>Salesforce learner</strong></span> • 
-    Constantly exploring & building 🚀
+    <span style="color:#00A1E0"><strong>QA / Testing Enthusiast</strong></span> • 
+    Currently an <strong>Intern at Finatech Group</strong> 🚀
   </em>
 </p>
 
 ---
 
 ## 🧑‍💻 Profile Overview
+
 🎓 5th-year **Software Engineering Student (MIAGE)**  
-💻 Focused on **Full-Stack Development & Enterprise Systems (ERP / CRM)**  
-☁️ Gaining hands-on experience in the **Salesforce ecosystem** (Trailhead, Flows, CRM fundamentals)  
-🌱 Highly motivated, disciplined, and eager to grow as a **developer & future consultant**  
+
+💻 Focused on **Full-Stack Development & Software Testing (QA)**  
+
+🔍 Gaining hands-on experience in **Manual & Automated Testing** (Selenium, Postman, JUnit, CI/CD test pipelines)  
+
+🌱 Currently **interning at Finatech Group**, applying my skills in real-world projects  
+
 🤝 Comfortable in **team-based & agile environments**
 
 ---
 
 ## 📬 Contact & Networking
+
 <p align="center">
   <a href="mailto:foutouhabderrahman8@gmail.com">
     <img src="https://img.shields.io/badge/Email-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://www.linkedin.com/in/foutouh-abderrahmane-537447305/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
+
 ## 🛠️ Tech Stack & Tools
+
 <p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+
   <!-- Programming -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" title="C++"/>
@@ -62,8 +72,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50" title="Oracle"/>
 
-  <!-- CRM / ERP -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" width="50" title="Salesforce"/>
+  <!-- QA / Testing -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original-wordmark.svg" width="50" title="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50" title="Selenium"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" width="50" title="JUnit"/>
 
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/>
@@ -74,12 +86,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" title="VSCode"/>
 </p>
 
-
 ---
 
 <p align="center">
-✨ <strong>Code with purpose. Learn with passion. Build for impact.</strong>
+✨ <strong>Code with purpose. Test with precision. Build for impact.</strong>
 </p>
+
 <p align="center">
 ⭐ Thanks for visiting my GitHub profile!
 </p>
