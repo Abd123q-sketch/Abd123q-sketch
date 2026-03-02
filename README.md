@@ -81,30 +81,6 @@
 
 ---
 
-## 📌 Projects Showcase
-
-<p align="center">
-  <a href="https://github.com/foutouhabderrahmane/project1" target="_blank">
-    <img src="https://img.shields.io/badge/Project1-React%20App-blue?style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/foutouhabderrahmane/project2" target="_blank">
-    <img src="https://img.shields.io/badge/Project2-Django%20App-green?style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/foutouhabderrahmane/project3" target="_blank">
-    <img src="https://img.shields.io/badge/Project3-SpringBoot-orange?style=for-the-badge"/>
-  </a>
-</p>
-
----
-
-## 💪 Skills Progress
-
-**Frontend:**  
-<kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>JS</kbd> <kbd>React</kbd>  
-**Backend:**  
-<kbd>Spring</kbd> <kbd>Django</kbd> <kbd>.NET</kbd>  
-**Databases:**  
-<kbd>MySQL</kbd> <kbd>Oracle</kbd>  
 
 ---
 
