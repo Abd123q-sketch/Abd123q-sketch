@@ -17,23 +17,22 @@
 
 🎓 5th-year **Software Engineering Student (MIAGE)**  
 💻 **Full-Stack Developer in Progress**  
-🔍 Gaining expertise in **Manual & Automated Testing (QA)**  
-🌱 Currently **interning at Finatech**, building real enterprise applications 🚀  
+🔍 Hands-on experience in **Manual & Automated Testing (QA)**  
+🌱 Currently **interning at Finatech**, building real enterprise apps 🚀  
 🤝 Thrives in **team-based & agile environments**  
-🎯 Driven by **solving problems, building software, and creating impact**
 
 > “Code with purpose. Learn with passion. Build for impact.” ✨
 
 ---
 
-## 🚀 My Focus Areas
+## 🎨 My Focus Areas
 
-- **Web Development:** HTML, CSS, JS, React, Bootstrap  
-- **Backend & APIs:** Spring Boot, Django, .NET  
-- **Databases:** MySQL, Oracle  
-- **Dev Tools & Collaboration:** Git, GitHub, GitLab, Jira, VSCode, IntelliJ  
-- **UI/UX & Prototyping:** Figma  
-- **Testing & QA:** Manual & Automated Testing  
+- 🌐 **Web Development:** HTML, CSS, JS, React, Bootstrap  
+- ⚙️ **Backend & APIs:** Spring Boot, Django, .NET  
+- 🗄 **Databases:** MySQL, Oracle  
+- 🛠 **Dev Tools & Collaboration:** Git, GitHub, GitLab, Jira, VSCode, IntelliJ  
+- 🎨 **UI/UX & Prototyping:** Figma  
+- ✅ **Testing & QA:** Manual & Automated Testing  
 
 ---
 
@@ -70,6 +69,42 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" title="IntelliJ"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" title="VSCode"/>
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=foutouhabderrahmane&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foutouhabderrahmane&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+## 📌 Projects Showcase
+
+<p align="center">
+  <a href="https://github.com/foutouhabderrahmane/project1" target="_blank">
+    <img src="https://img.shields.io/badge/Project1-React%20App-blue?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/foutouhabderrahmane/project2" target="_blank">
+    <img src="https://img.shields.io/badge/Project2-Django%20App-green?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/foutouhabderrahmane/project3" target="_blank">
+    <img src="https://img.shields.io/badge/Project3-SpringBoot-orange?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+## 💪 Skills Progress
+
+**Frontend:**  
+<kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>JS</kbd> <kbd>React</kbd>  
+**Backend:**  
+<kbd>Spring</kbd> <kbd>Django</kbd> <kbd>.NET</kbd>  
+**Databases:**  
+<kbd>MySQL</kbd> <kbd>Oracle</kbd>  
 
 ---
 
